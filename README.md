@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning *Backend Development, Full Stack, MERN Stack*
 - 👨‍💻 Check out my projects: *[GitHub Portfolio](https://github.com/akshit-sharma-15?tab=repositories)*
 - 💬 Ask me about *Python, C++, JavaScript, React*
-- 📫 Reach me at: *kartikayrattan1@gmail.com*
 - ⚡ Fun fact: 🎲 *I stay calm even in the most chaotic coding bugs—because panicking never fixed a line of code! 😎*
 
 ---

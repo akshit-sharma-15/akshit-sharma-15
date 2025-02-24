@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on *[ASAP Project](https://github.com/kalviumcommunity/S_84_SnackSlam)*
+- 🔭 I’m currently working on *[ASAP Project](https://github.com/kalviumcommunity/S_84_Chai_star)*
 - 🌱 I’m currently learning *Backend Development, Full Stack, MERN Stack*
 - 👨‍💻 Check out my projects: *[GitHub Portfolio](https://github.com/akshit-sharma-15?tab=repositories)*
 - 💬 Ask me about *Python, C++, JavaScript, React*

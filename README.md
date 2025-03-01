@@ -60,11 +60,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit-sharma-15&show_icons=true&theme=tokyonight&hide_border=true__seconds=5" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit-sharma-15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit-sharma-15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=5" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit-sharma-15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-sharma-15&theme=tokyonight" alt="kartikay-28" /></p>

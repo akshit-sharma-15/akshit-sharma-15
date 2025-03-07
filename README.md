@@ -67,7 +67,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit-sharma-15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=10" alt="Top Languages"/>
 </p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-sharma-15&theme=tokyonight" alt="kartikay-28" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-sharma-15&theme=tokyonight" alt="akshit-sharma-15" /></p>
 
 
 ---
